@@ -38,6 +38,7 @@ result = value1*value2
 print("Product of two arrays is:", result)
 ~~~
 ## OUTPUT:
-![](as.png)
+![](sss.png)
 ## RESULT:
+Thus the program is written to multiply two matrices using python programming
 
